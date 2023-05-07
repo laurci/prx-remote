@@ -1,4 +1,4 @@
-size: big
+size: small
 description: |
   My workstation is a VM, not a real computer. I run it on my home server where I use Proxmox to virtualize my stuff (NAS, Router, DNS, Plex, Kubernetes, etc.). I added a GPU and USB controller that I pass directly to the VM to make it a "real computer".
 
