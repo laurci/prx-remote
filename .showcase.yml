@@ -1,6 +1,10 @@
 size: small
 description: |
-  I have a VM workstation on my home server, which runs Proxmox and other services. To start the VM, I created an over-engineered power button with two components: an HTTP server on Proxmox and an ESP32 MCU with a button. The ESP32 connects to my Wi-Fi and triggers the HTTP server to boot the VM when the button is pressed. The hardware is basic and powered via USB, housed in a partially 3D-printed enclosure. Watch it in action [here](https://www.youtube.com/watch?v=elHgTOnZTQk).
+  I have a VM workstation on my home server, which runs Proxmox and other services. To start the VM, I created an over-engineered power button with two components: an HTTP server on Proxmox and an ESP32 MCU with a button. 
+  
+  The ESP32 connects to my Wi-Fi and triggers the HTTP server to boot the VM when the button is pressed. The hardware is basic and powered via USB, housed in a partially 3D-printed enclosure. 
+  
+  Watch it in action [here](https://www.youtube.com/watch?v=elHgTOnZTQk).
 tags:
   - platform.io
   - proxmox
